@@ -1,0 +1,5 @@
+# Build output (includes the fetched JUCE copy and compiled artefacts)
+build/
+
+# macOS
+.DS_Store
